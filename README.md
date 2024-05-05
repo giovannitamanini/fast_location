@@ -5,8 +5,11 @@ Project using dart/flutter for the discipline of Development of mobile and Distr
 ## Requirements
 
 Dart SDK version: 3.3.4
+
 Flutter 3.19.6
+
 Android Studio
+
 VS Code with all the language required extensions
 
 First of all, run in the project root folder:
